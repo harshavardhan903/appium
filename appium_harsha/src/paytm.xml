@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  	<parameter name="mbno" value=""/>
+  	<parameter name="mbnoc" value="invalid"/>
+  	<parameter name="pwd" value="kharsha903"/>
+  	<parameter name="pwdc" value="valid"/>
+    <classes>
+      <class name="android_appium.Testng_paytm"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
